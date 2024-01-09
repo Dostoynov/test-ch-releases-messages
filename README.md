@@ -18,4 +18,8 @@ around our workspace! And now we even have `.gitignore`. Also have hello world.
 
 Text is generated with ChatGPT help.
 
+
 MY GIGA CHANGES FOR README
+
+[UPD]: 
+### Vigen was here
