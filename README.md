@@ -12,6 +12,7 @@ of Banya, capturing his charming personality and sleek black coat. We believe th
 pets like Banya can significantly boost creativity and morale.
 
 ![Banya the Cat](https://github.com/rgb2hsl/test-ch-releases-messages/blob/main/static/banya.jpeg?raw=true)
+![Viguen the Dev](https://github.com/rgb2hsl/test-ch-releases-messages/blob/main/static/viguen.png)
 
 Stay tuned as we explore more features of Changeloguevara and share updates about Banya's adventures
 around our workspace! And now we even have `.gitignore`. Also have hello world.
